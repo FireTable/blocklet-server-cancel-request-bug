@@ -23,7 +23,6 @@ files:
   - dist
   - logo.png
   - screenshots
-  - api/hooks/pre-start.js
 interfaces:
   - type: web
     name: publicUrl
